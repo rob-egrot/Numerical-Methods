@@ -1,0 +1,18 @@
+Dataset: carpet_age.csv
+
+Source: J. Csapo, Z. Csapo-Kiss, T.G. Martin, S. Folestad, O. Orwar,
+ A. Tivesten, and S. Nemethy (1995). "Age Estimation of Old Carpets Based
+on Cystine and Cysteic Acid Content," Analytica Chimica Acta, Vol. 300, 
+pp. 313-320.
+
+Description: Age of 23 Old Carpet and Wool samples, and Cysteic Acid,
+Cystine, Methionine, and Tyrosine. Two samples are of unknown age,
+and Prediction Intervals were formed.
+
+Variables/Names
+Sample ID    (sample_id)
+age           (age)
+Cysteic Acid Level  (cys_acid)
+cystine level       (cys)
+Methionine Level    (met)
+Tyrosine Level      (tyr)
